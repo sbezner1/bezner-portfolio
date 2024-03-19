@@ -1,7 +1,7 @@
 # bezner-portfolio
 Geospatial project portfolio for Saul Bezner
 
-# About me
+# About me 
 My name is Saul (he/him) and I am a second-year public policy master student at Carnegie Mellon University. I am primarily interested in geospatial research concerned with urban planning, equity, and the social determinants of health.
 
 I currently volunteer as a GIS consultant for the Polish Hill Civic Association (PHCA), Rail Pollution Protection Pittsburgh (RPPP), and Beaver County Marcellus Awareness Community (BCMAC). For these organizations, I have made public ArcGIS StoryMaps, showing the spatial relationship between industry pollution and community health risks in Southwestern Pennsylvania.
