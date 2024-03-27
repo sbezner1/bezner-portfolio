@@ -14,4 +14,4 @@ As a student currently taking a course in advanced GIS, I want to learn the adva
 ## Portfolio
 ### Week 3
  [College Statistics for 2024](NewInsights.md)
- [Custom Google Map for Nonprofit](GoogleMap-JSON.txt)
+ [Custom Google Map for Nonprofit](GoogleMap-JSON.md)
