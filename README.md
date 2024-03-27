@@ -1,5 +1,5 @@
-# bezner-portfolio
-Geospatial project portfolio for Saul Bezner
+# Saul Bezner
+## Geospatial project portfolio
 
 ## About me 
 My name is Saul (he/him) and I am a second-year public policy master student at Carnegie Mellon University. I am primarily interested in geospatial research concerned with urban planning, equity, and the social determinants of health.
