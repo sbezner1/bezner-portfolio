@@ -14,3 +14,4 @@ As a student currently taking a course in advanced GIS, I want to learn the adva
 ### Week 3
  1. [College Statistics for 2024](NewInsights.md)
  2. [Custom Google Map for Nonprofit](GoogleMap-JSON)
+ 3. [Ottowa Cyclist Fatalities](OttowaCyclistFatalities.md)
