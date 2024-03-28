@@ -31,3 +31,22 @@ MBC should embed a custom map on its homepage to show visitors that it is a comm
 
 ![Figure4](Figure4Close.png)
 **Figure 4.** Close up of Manchester Bidwell Corporation campus.
+
+## Feature Lookup Table
+
+| **Feature type** | **Element type** | **Color** |
+| All | Labels / Text fill | Aqua Haze (#F1F7F5) |
+| All | Labels / Text outline | Chathams Blue (#134269) |
+| Country | Geometry / Stroke | Chathams Blue (#134269) |
+| Province | Geometry / Stroke | Chathams Blue (#134269) |
+| Land parcel | Labels / Text fill | Aqua Haze (#F1F7F5) |
+| Landscape / Human-made | Geometry / Stroke | Chathams Blue (#134269) |
+| Landscape / Natural | Geometry | Amazon (#3E895E) |
+| POI / Park | Labels / Text fill | Aqua Haze (#F1F7F5) |
+| Road | Labels / Text fill | Nepal (#8BA9C0) |
+| Road / Highway | Geometry / Fill | Amazon (#3E895E) |
+| Road / Highway | Labels / Text fill | Nepal (#8BA9C0) |
+| Road / Arterial | Geometry / Fill | Nepal (#8BA9C0) |
+| Road / Local | Geometry / Fill | Nepal (#8BA9C0) |
+| Transit / All | Geometry / Fill | Aqua Haze (#F1F7F5) |
+| Water | Geometry | Ebony (#0E1626) |
