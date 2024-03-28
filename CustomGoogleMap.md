@@ -17,7 +17,14 @@ As an organization that advances opportunities for hundreds of residents every y
 | 5 | Draft instructions for client to embed custom map | 1 | $100/hour | $100 |
 
 ## Example Images
-![Figure-1.](Color-Palette.png)
+![Figure1](Figure1ColorPalette.png)
+Figure 1. Collor Palette for Manchester Bidwell Corporation
 
-![Figure-2.](Zoom-1-Wide.png)
-Figure 2. 
+![Figure2](Figure2Wide.png)
+Figure 2. Wide shot of Pittsburgh.
+
+![Figure3](Figure3Medium.png)
+Figure 3. Medium shot of Manchester neighborhood.
+
+![Figure4](Figure4Close.png)
+Figure 4. Close up of Manchester Bidwell Corporation campus.
