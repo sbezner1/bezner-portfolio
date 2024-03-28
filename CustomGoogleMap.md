@@ -20,6 +20,8 @@ As an organization that advances opportunities for hundreds of residents every y
 ## Color Palette and Map Previews
 ![Figure1](Figure1ColorPalette.png)
 
+<img src="Figure1ColorPalette.png" width="100" height="100">
+
 Figure 1. Collor Palette for Manchester Bidwell Corporation
 
 ![Figure2](Figure2Wide.png)
