@@ -20,7 +20,7 @@ MBC should embed a custom map on its homepage to show visitors that it is a comm
 | 5 | Draft instructions for client to embed custom map | 1 | $100/hour | $100 |
 
 ## Color Palette and Map Previews
-<img src="Figure1ColorPalette.png" width="900" height="600">
+<img src="Figure1ColorPalette.png" width="600" height="400">
 **Figure 1.** Collor Palette for Manchester Bidwell Corporation
 
 ![Figure2](Figure2Wide.png)
