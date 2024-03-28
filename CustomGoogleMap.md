@@ -54,3 +54,6 @@ The proposed cumulative estimate comes to 6.5 hours at a rate of $100/hour, or $
 | Road / Local | Geometry / Fill | Nepal (#8BA9C0) |
 | Transit / All | Geometry / Fill | Aqua Haze (#F1F7F5) |
 | Water | Geometry | Ebony (#0E1626) |
+
+### JSON Code
+Users can access the JSON code for the map [here](/GoogleMapJSON.txt) 
