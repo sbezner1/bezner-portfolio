@@ -17,7 +17,7 @@ As an organization that advances opportunities for hundreds of residents every y
 | 5 | Draft instructions for client to embed custom map | 1 | $100/hour | $100 |
 
 ## Example Images
-![Figure1](Figure1ColorPalette.png)
+![Figure1](/assets/images/Figure1ColorPalette.png)
 Figure 1. Collor Palette for Manchester Bidwell Corporation
 
 ![Figure2](Figure2Wide.png)
