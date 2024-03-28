@@ -8,6 +8,7 @@ Manchester Bidwell Corporation (MBC) has been a champion of education and arts i
 As an organization that advances opportunities for hundreds of residents every year, MBC needs high quality geographic materials to spread its message effectively. Based in the Manchester-Chateau industrial park, MBC bridges two buildings and connects four programs. This means visitors can get easily turned around trying to find the correct building for an affiliate program.
 
 ## Time and Labor Estimates
+
 | **Task** | **Description** | **Hours** | **Rate** | **Cost** |
 | -------- | --------------- | --------- | -------- | -------- |
 | 1 | Develop custom map | 2 | $100/hour | $200 |
