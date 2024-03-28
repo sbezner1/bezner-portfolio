@@ -17,4 +17,7 @@ As an organization that advances opportunities for hundreds of residents every y
 | 5 | Draft instructions for client to embed custom map | 1 | $100/hour | $100 |
 
 ## Example Images
-![Figure 1.](Zoom-1-Wide.png)
+![Figure-1.](Color-Palette.png)
+
+![Figure-2.](Zoom-1-Wide.png)
+Figure 2. 
