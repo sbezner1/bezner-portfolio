@@ -25,7 +25,6 @@ The proposed cumulative estimate comes to 6.5 hours at a rate of $100/hour, or $
 
 ### Color Palette and Map Previews
 <img src="Figure1ColorPalette.png" width="600" height="400">
-
 **Figure 1.** Collor Palette for Manchester Bidwell Corporation
 
 ![Figure2](Figure2Wide.png)
