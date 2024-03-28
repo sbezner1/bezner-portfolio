@@ -3,13 +3,13 @@
 
 
 ### Proposal
-Manchester Bidwell Corporation (MBC) has been a champion of education and arts in the Pittsburgh region for decades. As a parent nonprofit, it finances several affiliate programs, including Bidwell Training Center (BTC) and Manchester Craftsmen’s Guild (MCG). Whether an adult studies medical services, horticulture, chemical laboratory technology, or culinary arts, or a high school student learns ceramics, design, digital arts, or photography, BTC and MCG are unique in their promotion of free and accessible education.
+Manchester Bidwell Corporation (MBC) has been a champion of education and arts in the Pittsburgh region for decades. As a parent nonprofit, it finances several affiliate programs, including Bidwell Training Center (BTC) and Manchester Craftsmen’s Guild (MCG). BTC and MCG are unique in their promotion of free and accessible education: adults can study medical services, horticulture, chemical laboratory technology or culinary arts, and high school students can learn ceramics, design, digital arts, or photography.
 
-As an organization that advances opportunities for hundreds of residents every year, MBC needs high quality geographic materials to spread its message effectively. Based in the Manchester-Chateau industrial park, MBC bridges two buildings and connects four programs. This means visitors can get easily turned around trying to find the correct building for an affiliate program.
+As an organization that advances opportunities for hundreds of residents every year, MBC needs high quality geographic materials to spread its message effectively. Based in the Manchester-Chateau industrial park, MBC bridges two buildings and connects four programs. This means visitors can easily get turned around trying to find the correct building for an affiliate program.
 
-MBC should embed a custom map on its homepage to show visitors that it is a community staple. This would place MBC at the heart of the Manchester neighborhood. As this document will show, creating a custom map is not just useful, but cost and time effective. 
+MBC should embed a custom map on its homepage to avoid confusion and show visitors that it is a community staple. This would place MBC at the heart of the Manchester neighborhood. As this document will show, creating a custom map is not just useful, but cost and time effective. 
 
-### Time and Labor Estimates
+### Time and Cost Estimates
 
 | **Task** | **Description** | **Hours** | **Rate** | **Cost** |
 | -------- | --------------- | --------- | -------- | -------- |
@@ -21,7 +21,7 @@ MBC should embed a custom map on its homepage to show visitors that it is a comm
 
 The proposed cumulative estimate comes to 6.5 hours at a rate of $100/hour, or $650 in total.
 
-***Reflection:** Upon completion of this assignment, I realize it may have taken me upwards of 6.5 hours. I'm still learning Git commands, so I had to troubleshoot the GitHub markdown document several times. This is a good reminder that projects often require troubleshooting and this should be accounted for in labor cost estimates.*
+***Reflection:** Upon completion of this assignment, I realize it may have taken me upwards of 6.5 hours. I'm still learning Git commands, so I had to troubleshoot the GitHub markdown document several times. This is a good reminder that projects often require troubleshooting and this should be accounted for in time and cost estimates.*
 
 ### Color Palette and Map Previews
 <img src="Figure1ColorPalette.png" width="600" height="400">
