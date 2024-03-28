@@ -7,28 +7,27 @@ Manchester Bidwell Corporation (MBC) has been a champion of education and arts i
 
 As an organization that advances opportunities for hundreds of residents every year, MBC needs high quality geographic materials to spread its message effectively. Based in the Manchester-Chateau industrial park, MBC bridges two buildings and connects four programs. This means visitors can get easily turned around trying to find the correct building for an affiliate program.
 
+MBC should embed a custom map on its homepage to show visitors that it is a community staple. This would place MBC at the heart of the Manchester neighborhood.
+
 ## Time and Labor Estimates
 
 | **Task** | **Description** | **Hours** | **Rate** | **Cost** |
 | -------- | --------------- | --------- | -------- | -------- |
-| 1 | Develop custom map | 2 | $100/hour | $200 |
-| 2 | Create accessible web page | 2 | $100/hour | $200 |
-| 3 | Draft map feature lookup table | 1 | $100/hour | $100 |
+| 1 | Develop a custom map | 2 | $100/hour | $200 |
+| 2 | Create an accessible web page | 2 | $100/hour | $200 |
+| 3 | Draft a map feature lookup table | 1 | $100/hour | $100 |
 | 4 | Export and share JSON file | 0.5 | $100/hour | $50 | 
 | 5 | Draft instructions for client to embed custom map | 1 | $100/hour | $100 |
 
 ## Color Palette and Map Previews
 ![Figure1](Figure1ColorPalette.png)
-
-<img src="Figure1ColorPalette.png" width="100" height="100">
-
-Figure 1. Collor Palette for Manchester Bidwell Corporation
+**Figure 1.** Collor Palette for Manchester Bidwell Corporation
 
 ![Figure2](Figure2Wide.png)
-Figure 2. Wide shot of Pittsburgh.
+**Figure 2.** Wide shot of Pittsburgh.
 
 ![Figure3](Figure3Medium.png)
-Figure 3. Medium shot of Manchester neighborhood.
+**Figure 3.** Medium shot of Manchester neighborhood.
 
 ![Figure4](Figure4Close.png)
-Figure 4. Close up of Manchester Bidwell Corporation campus.
+**Figure 4.** Close up of Manchester Bidwell Corporation campus.
