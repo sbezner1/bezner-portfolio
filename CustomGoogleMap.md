@@ -21,6 +21,7 @@ MBC should embed a custom map on its homepage to show visitors that it is a comm
 
 ## Color Palette and Map Previews
 ![Figure1](Figure1ColorPalette.png)
+<img src="Figure1ColorPalette.png" width="500" height="500">
 **Figure 1.** Collor Palette for Manchester Bidwell Corporation
 
 ![Figure2](Figure2Wide.png)
